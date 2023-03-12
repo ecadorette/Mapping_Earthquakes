@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-modele14
+module14
